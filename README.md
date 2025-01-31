@@ -1,2 +1,15 @@
-# Glass_Calculator
-A responsive online calculator built using HTML, CSS (WEB PROJECT/Front-End). It features a modern glass morphism design with smooth animations and a functional interface for performing basic arithmetic operations (addition, subtraction, multiplication, division). 
+# 💻 Stylish Calculator
+
+This is a **modern, stylish calculator** built using **HTML, CSS**. It features a sleek **glassmorphism design**, smooth button animations, and a fully functional arithmetic system.
+
+## 🚀 Features
+
+✅ **Modern UI** with a smooth gradient background  
+✅ **Glassmorphism design** for a stylish look  
+✅ **Clickable buttons** with hover effects  
+✅ **Basic arithmetic operations** (+, -, ×, ÷)  
+✅ **Responsive and easy to use**  
+
+## 📸 Screenshot
+
+![Calculator Preview](Screenshot.png) 
